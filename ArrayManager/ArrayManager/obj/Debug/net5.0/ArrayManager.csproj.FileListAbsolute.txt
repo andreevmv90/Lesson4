@@ -1,0 +1,16 @@
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ArrayManager.exe
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ArrayManager.deps.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ArrayManager.runtimeconfig.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ArrayManager.runtimeconfig.dev.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ArrayManager.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ref\ArrayManager.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\bin\Debug\net5.0\ArrayManager.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.csproj.AssemblyReference.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.AssemblyInfoInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.AssemblyInfo.cs
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.csproj.CoreCompileInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ref\ArrayManager.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 4\Lesson4\ArrayManager\ArrayManager\obj\Debug\net5.0\ArrayManager.genruntimeconfig.cache
